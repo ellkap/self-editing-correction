@@ -1,3 +1,6 @@
+Update: please refer to the most current iteration of this pipeline hosted at the [main GitHub repository](https://github.com/ellkap/Base-editor-activity-based-selection) for this manuscript
+
+
 # self-editing-correction
 
 This code applies the self-editing correction for base editors as described in the bioRxiv [preprint](https://www.biorxiv.org/content/10.1101/2024.11.12.622254v1) “Activity-based selection for enhanced base editor mutational scanning” by Kaplan et al (2024). The output from this code is a read counts file that can be used for further screen analysis. Sample inputs and outputs are provided using SpG-Cas9-ABE8e activity-based selection condition as described in the preprint.
